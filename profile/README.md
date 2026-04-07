@@ -2,13 +2,6 @@
 
 Open-source tools for astrophotography automation and observatory safety.
 
-## Projects
-
-| Repository | Description | Language |
-|------------|-------------|----------|
-| [ascom-alpaca-core](https://github.com/nightwatch-astro/ascom-alpaca-core) | ASCOM Alpaca protocol types and traits for Rust | Rust |
-| [esp-idf-improv-wifi](https://github.com/nightwatch-astro/esp-idf-improv-wifi) | Improv WiFi provisioning for ESP-IDF | Rust |
-| [esp-idf-smtp](https://github.com/nightwatch-astro/esp-idf-smtp) | SMTP email client for ESP-IDF | Rust |
 
 ## About
 
