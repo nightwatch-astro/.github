@@ -8,3 +8,7 @@ Open-source tools for astrophotography automation and observatory safety.
 Nightwatch is an ESP32-based safety monitor and dead man's switch for astrophotography. It implements the ASCOM Alpaca protocol to integrate with imaging software like NINA, SGP, and Voyager.
 
 The libraries in this org are standalone crates published to [crates.io](https://crates.io) — usable in any Rust project, not just Nightwatch.
+
+## Crates
+
+- [`xisf-header`](https://crates.io/crates/xisf-header) — read and write XISF image-file headers ([API docs](https://docs.rs/xisf-header))
